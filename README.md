@@ -1,4 +1,6 @@
-- 📫 sourcecontrol@portlandsoft.works
+📫 sourcecontrol@portlandsoft.works
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/j-garrison)
 
 <!---
 GartzenDeHaes/GartzenDeHaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
